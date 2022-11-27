@@ -1,0 +1,11 @@
+Project HelloWorld that give JSON Response as 
+Message:"HelloWorld"
+
+Project Folder is sudeep_prj
+
+The command in linux terminal to up djnago server is 
+	"python manage.py runserver"
+	
+In browser type url
+	"http://localhost:8080/sudeep/" which responses JSON as 
+Message:"HelloWorld"
